@@ -26,9 +26,9 @@ To run the application in the terminal you will ned to type the command node ind
 
 ## Usage
 
-![alt text](assets/images/screenshot.png)
+![example](examples/snip.png)
 
-
+https://drive.google.com/file/d/1j7e6BdibeNVUmBIKfDYyfbVargTx1yq5/view
 ## Tests    
 To run the tests type npm run test into the terminal.
 ## Credits
